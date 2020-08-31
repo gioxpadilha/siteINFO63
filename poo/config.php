@@ -3,8 +3,8 @@
  * Configurações de diretórios e de banco de dados 
  */
 	session_start();
-	define("HOME_URI", "http://localhost/siteINFO/poo/");
-	define("HOME_DIR", "C:\Program Files\VertrigoServ\www\siteINFO\poo/");
+	define("HOME_URI", "https://siteinfo63.000webhostapp.com/");
+	define("HOME_DIR", "./");
 	
 	define('SGBD','mysql');
 	define('HOST_DB', 'localhost');
